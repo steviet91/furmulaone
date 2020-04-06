@@ -2,7 +2,7 @@
 Repository for the furloughed racing championship
 
 # Intro
-So I thinking on how to provide a little learning for myself over the next couple of months and landed on trying to make a very basic racing game in C++. I then thought how could this be more useful and figured it would be great to challenge others to hopefully what will be a brutally competetive game. The rules are still been figured out but here is where I currently am:
+So I thinking on how to provide a little learning for myself over the next couple of months and landed on trying to make a very basic racing game in C++. I then thought how could this be more useful and figured it would be great tool for others to develop their coding ability or knowledge on self-driving cars. I thought it would be great to add some competition to this all. The rules are still been figured out but here is where I currently am:
 
 - Winner is the user who can drive 5 laps of the circuit in the shortest period of time.
 - The user MUST NOT use any of the buttons used within the provided game controls.
